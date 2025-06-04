@@ -20,7 +20,7 @@ This project is both a learning journey and a technical challenge:
 - I will document every step, including environment setup, code exploration, and experiment reproduction.
 
 ## Progress
-- [Day 1 : Python Setup and Control Flow](Day 1(05 June, 2025) Summary.md)
+- [Day 1 : Python Setup and Control Flow](Day 1 Summary.md)
 
 ---
 
