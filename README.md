@@ -33,7 +33,7 @@ This project is both a learning journey and a technical challenge:
 
 ## Useful Links
 
-- [Original Paper (arXiv)](https://arxiv.org/abs/2202.03790)
+- [Original Pape](https://openreview.net/pdf?id=vbPsD-BhOZ)
 - [Official Code Repository](https://github.com/twitter-research/neural-sheaf-diffusion)
 
 ---
