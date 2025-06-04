@@ -19,15 +19,8 @@ This project is both a learning journey and a technical challenge:
 - I am new to Python and modern coding practices.
 - I will document every step, including environment setup, code exploration, and experiment reproduction.
 
-## Week 1 Progress
-
-- [ ] Set up Python environment (Anaconda/Miniconda)
-- [ ] Learn Python basics (variables, loops, functions, etc.)
-- [ ] Set up Git and GitHub repository
-- [ ] Write initial README and project plan
-- [ ] Skim the target paper and official code repository
-
-*Progress will be updated at the end of each week.*
+## Progress
+- [Day 1 : Python Setup and Control Flow](Day 1(05 June, 2025) Summary.md)
 
 ---
 
