@@ -1,5 +1,5 @@
 
-# Day 2: [Python Control Flow & Functions]
+# Day 2: [Python Control Flow, Functions & Git]
 
 ## Goals: 
 - [x] **Task 1:** Learn about Python functions: defining functions, arguments (positional, keyword), return values, variable scope.
