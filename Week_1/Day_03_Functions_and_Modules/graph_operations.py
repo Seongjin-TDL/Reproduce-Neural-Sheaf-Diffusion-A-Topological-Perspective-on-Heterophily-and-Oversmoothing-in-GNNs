@@ -1,13 +1,3 @@
-# graph_operations.py
-# Author: Seongjin-TDL
-# Date: 20250610
-#
-# PURPOSE:
-# This file serves as a custom module to practice Python functions.
-# It contains simple helper functions related to graph structures,
-# directly inspired by the components needed for graph neural networks (GNNs)
-# and the neural sheaf diffusion (NSD) paper.
-
 import torch
 
 def get_graph_connectivity():
